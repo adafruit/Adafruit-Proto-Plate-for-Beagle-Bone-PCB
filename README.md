@@ -15,3 +15,11 @@ New! As of May 7, 2013 this plate has ben re-designed to fit either an original 
 The plate is made of 3mm thick laser-cut clear acrylic with nice engraving showing alignment. There are four 4-40 screws, standoffs and hex-nuts to attach the 'Bone on and the halfsized breadboard can be stuck on (just remove the paper backing from it). Finally, there are four rubber bumpers you can use to lift the plate off of your table, so it won't slide around.
 
 [BeagleBone](http://www.adafruit.com/products/1278) and [half-sized breadboard](http://www.adafruit.com/products/64) are not included! [You can pick those items (as well as other Beagle Bone toys in the shop](http://www.adafruit.com/category/75).
+
+### License
+
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
+
+Designed by Limor Fried/Ladyada for Adafruit Industries.
+
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
